@@ -1,4 +1,4 @@
-package org.graphwallker.examples;
+package org.graphwalker.examples;
 
 import java.io.File;
 import java.net.URISyntaxException;
