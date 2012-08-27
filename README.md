@@ -20,7 +20,7 @@ mvn compile
 
 mvn test
 
-## Other documantation
+## Other documentation
 
 http://graphwalker.org/documentation/
 
